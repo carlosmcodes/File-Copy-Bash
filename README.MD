@@ -1,9 +1,3 @@
-# CSC 415 - Project 2 - File copy
-
-## Student Name : Carlos Lopez
-
-## Student ID   : 918559153
-
 ## Build Instructions
 	Assuming you have cloned the project, the steps needed would only be to type 'make' in	  the project. Once done, build has completed.
 ## Run Instructions
